@@ -9,6 +9,9 @@ This repository contains basic C programs for learning fundamentals.
 - Print "Marvellous"
 - Array size calculation
 - Pointer to pointer example
+- array
+- pointer
+- structures declaration
 
 ## Purpose
 To understand basic concepts of C programming.
